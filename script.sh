@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome ti scripting lifestyle"
+echo "Welcome to scripting lifestyle"
 sleep 4
 echo
 echo
