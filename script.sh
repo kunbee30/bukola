@@ -21,4 +21,14 @@ echo 2. "Create a group"
 echo 3. "Create a file"
 echo 4. "Create a folder"
 echo 5. "Create a webserver"
+#read option
+sleep 2
+echo "you have selected option $option "
+echo
+echo
+echo " I will go ahead and make your wishes come through"
 #write a case state that will perform any action the user picks
+echo will you like to make another transaction?
+echo
+echo
+echo done!!
