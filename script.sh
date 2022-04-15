@@ -10,7 +10,7 @@ echo
 echo
 echo "Would you like me to go ahead and create a personal user for you"
 #read ans
-write an if statement if the ans is yes continue if the answer is no quit
+#write an if statement if the ans is yes continue if the answer is no quit
 echo "Thanks for using my services"
 echo
 echo
